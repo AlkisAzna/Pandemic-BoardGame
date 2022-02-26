@@ -2,7 +2,7 @@
 A Java project for creating and playing the Pandemic Board Game through automatic agents
 
 ## Purpose
-Created in Eclipse IDE for an undergraduate project in lesson called "Autonomous Agents".
+Created in Eclipse IDE for an Undergraduate Project of Electronic and Computer Engineering Department of Technical Univercity of Crete for the lesson called "Autonomous Agents".
 
 ## Brief Description
 Given the board game logic in Java, we had to improve the default agent behavior for playing the board game. The target was to improve the strategic movements of each agent (i.e. character of the game).
